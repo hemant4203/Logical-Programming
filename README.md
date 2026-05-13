@@ -1,3 +1,3 @@
 # Logical-Programming
-#CodingBat logical programming
-#[✅]Warmup-1
+CodingBat logical programming
+[✅]Warmup-1
